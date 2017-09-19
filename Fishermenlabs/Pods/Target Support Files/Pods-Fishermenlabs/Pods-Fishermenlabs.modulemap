@@ -1,0 +1,6 @@
+framework module Pods_Fishermenlabs {
+  umbrella header "Pods-Fishermenlabs-umbrella.h"
+
+  export *
+  module * { export * }
+}
